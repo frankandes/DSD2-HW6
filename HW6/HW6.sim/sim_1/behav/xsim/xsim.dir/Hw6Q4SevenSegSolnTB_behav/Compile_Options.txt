@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Hw6Q4SevenSegSolnTB_behav" "xil_defaultlib.Hw6Q4SevenSegSolnTB" -log "elaborate.log" 
